@@ -1,0 +1,109 @@
+
+
+body{
+    background:black !important;
+    padding-left:100px;
+    padding-right:100px;
+}
+
+
+nav {
+    background: black;
+    text-align: right;
+    border:1px solid chocolate;
+    color:lime;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+}
+
+nav li {
+    display: inline;
+    margin-right: 15px;
+}
+
+
+
+
+.banner{
+    background: url(https://www.runescape.com/img/rsp777/title2/rslogo3.png) no-repeat center;
+    display: block;
+    margin-bottom: 25px;
+    min-height: 135px;
+    text-align: center;
+}
+    
+
+li{
+    list-style:none;
+    line-height:3px;
+    
+
+}
+
+.game-list{
+   
+    text-align:left;
+    font-size:10px;
+    width:150px;
+    border:1px solid chocolate;
+    padding:10px;
+    margin:10px;
+    background-color:black;
+
+}
+
+.community-list{
+    text-align:left;
+    font-size:10px;
+    width:150px;
+    border:1px solid chocolate;
+    padding:10px;
+    margin:10px;
+    background-color:black;
+}
+
+.account-list{
+    text-align:left;
+    font-size:10px;
+    width:150px;
+    border:1px solid chocolate;
+    padding:10px;
+    margin:10px;
+    background-color:black;
+}
+
+
+a:link{
+    color:lime;
+    text-decoration:none;
+}
+
+
+.texturebg{
+    background-image: url(/assets/runescapebg.png);
+    padding-left:100px;
+    padding-right:100px;
+}
+
+p{
+    color:white;
+    text-align: center;
+    font-size: smaller;
+}
+
+button{
+    color:white;
+    border:solid gray;
+    border-radius:10px;
+    display:block;
+    float:right;
+    padding:50px;
+    margin:20px;
+    background:url(/assets/runescapebg.png)
+ 
+
+}
